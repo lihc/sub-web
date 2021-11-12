@@ -249,7 +249,7 @@ export default {
           ssd: "ssd",
           v2ray: "v2ray"
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" },{ value: "https://3.1415926.ink/sub?" }],
+        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" },{ value: "http://3.1415926.ink/sub?" }],
         remoteConfig: [
           {
             label: "universal",
